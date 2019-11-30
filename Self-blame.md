@@ -4,7 +4,7 @@
 
 **Today**
 
-**Yestoday**
+**Yesterday**
 
 **Tomorrw**
 
